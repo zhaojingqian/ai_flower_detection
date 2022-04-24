@@ -65,7 +65,25 @@ x_val = x_val / 255      #测试集图片标准化
 flower_dict = {0:'bee',1:'blackberry',2:'blanket',3:'bougainvillea',4:'bromelia',5:'foxglove'} #创建图像标签列表
 
 # Todo 自行实现模型结构
-model = Sequential([])
+# data_augmentation = tf.keras.Sequential([
+#   tf.keras.layers.RandomFlip("horizontal"),
+# ])
+
+
+model = tf.keras.Sequential([
+#   data_augmentation,
+  tf.keras.layers.Conv2D(16, 3, activation='relu', padding='same', input_shape=(w, h, 3)),
+  tf.keras.layers.MaxPooling2D(2, 2),
+  tf.keras.layers.Conv2D(32, 3, activation='relu', padding='same'),
+  tf.keras.layers.MaxPooling2D(2, 2),
+  tf.keras.layers.Conv2D(64, 3, activation='relu', padding='same'),
+  tf.keras.layers.MaxPooling2D(2, 2),
+  tf.keras.layers.Flatten(),
+  tf.keras.layers.Dropout(0.5),
+  tf.keras.layers.Dense(128, activation='relu'),
+  tf.keras.layers.Dropout(0.5),
+  tf.keras.layers.Dense(6, activation='softmax')
+])
 
 # Todo 可调整超参数lr，可选择其他优化器
 opt = optimizers.Adam(learning_rate=0.0001)   #使用Adam优化器，优化模型参数。lr(learning rate, 学习率)
@@ -80,7 +98,8 @@ model.compile(optimizer=opt,
 # Todo 可调整超参数
 #训练模型，决定训练集和验证集，batch size：进行梯度下降训练模型时每个batch包含的样本数。
 #verbose：日志显示，0为不在标准输出流输出日志信息，1为输出进度条记录，2为每个epoch输出一行记录
-model.fit(x_train, y_train, epochs=30, validation_data=(x_val, y_val),batch_size=200, verbose=2)
+model.fit(x_train, y_train, epochs=800, validation_data=(x_val, y_val),batch_size=32, verbose=2)
 #输出模型的结构和参数量
 model.summary()
 model.save(model_path)  #保存模型
+print("over!!!")
