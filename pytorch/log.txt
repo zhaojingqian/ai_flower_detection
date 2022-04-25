@@ -1,0 +1,1010 @@
+===========fold:1==============
+--- epoch: 1 ---
+training loss: 1.6590, acc: 28.07%, dev loss: 1.5007, acc: 32.21%.
+--- epoch: 2 ---
+training loss: 1.4940, acc: 41.68%, dev loss: 1.3560, acc: 41.61%.
+--- epoch: 3 ---
+training loss: 1.3674, acc: 45.38%, dev loss: 1.3029, acc: 46.31%.
+--- epoch: 4 ---
+training loss: 1.3282, acc: 45.71%, dev loss: 1.2366, acc: 50.34%.
+--- epoch: 5 ---
+training loss: 1.2430, acc: 51.43%, dev loss: 1.2140, acc: 53.69%.
+--- epoch: 6 ---
+training loss: 1.1037, acc: 55.13%, dev loss: 1.0721, acc: 58.39%.
+--- epoch: 7 ---
+training loss: 1.0765, acc: 57.98%, dev loss: 1.0604, acc: 59.73%.
+--- epoch: 8 ---
+training loss: 1.0345, acc: 60.67%, dev loss: 0.9927, acc: 57.72%.
+--- epoch: 9 ---
+training loss: 0.9748, acc: 65.55%, dev loss: 0.9634, acc: 61.07%.
+--- epoch: 10 ---
+training loss: 0.9546, acc: 65.55%, dev loss: 0.9231, acc: 65.10%.
+--- epoch: 11 ---
+training loss: 0.9340, acc: 67.73%, dev loss: 0.9341, acc: 67.11%.
+--- epoch: 12 ---
+training loss: 0.8684, acc: 68.24%, dev loss: 0.8860, acc: 64.43%.
+--- epoch: 13 ---
+training loss: 0.7834, acc: 69.92%, dev loss: 0.9064, acc: 63.09%.
+--- epoch: 14 ---
+training loss: 0.7523, acc: 70.59%, dev loss: 0.8263, acc: 69.13%.
+--- epoch: 15 ---
+training loss: 0.7409, acc: 71.93%, dev loss: 0.8191, acc: 67.79%.
+--- epoch: 16 ---
+training loss: 0.7045, acc: 73.45%, dev loss: 0.9591, acc: 65.10%.
+--- epoch: 17 ---
+training loss: 0.7723, acc: 70.76%, dev loss: 0.8685, acc: 65.10%.
+--- epoch: 18 ---
+training loss: 0.6430, acc: 76.30%, dev loss: 0.7080, acc: 71.81%.
+--- epoch: 19 ---
+training loss: 0.6168, acc: 76.64%, dev loss: 0.8996, acc: 68.46%.
+--- epoch: 20 ---
+training loss: 0.6050, acc: 77.98%, dev loss: 0.7204, acc: 67.79%.
+--- epoch: 21 ---
+training loss: 0.6156, acc: 75.46%, dev loss: 0.8159, acc: 69.13%.
+--- epoch: 22 ---
+training loss: 0.5602, acc: 79.50%, dev loss: 0.7186, acc: 67.79%.
+--- epoch: 23 ---
+training loss: 0.5294, acc: 81.01%, dev loss: 0.6748, acc: 72.48%.
+--- epoch: 24 ---
+training loss: 0.4853, acc: 81.18%, dev loss: 0.8659, acc: 68.46%.
+--- epoch: 25 ---
+training loss: 0.5316, acc: 81.18%, dev loss: 0.7425, acc: 71.14%.
+--- epoch: 26 ---
+training loss: 0.4669, acc: 84.20%, dev loss: 0.7013, acc: 70.47%.
+--- epoch: 27 ---
+training loss: 0.4343, acc: 84.20%, dev loss: 0.6455, acc: 72.48%.
+--- epoch: 28 ---
+training loss: 0.4317, acc: 83.19%, dev loss: 0.7120, acc: 71.14%.
+--- epoch: 29 ---
+training loss: 0.4437, acc: 85.38%, dev loss: 0.6396, acc: 75.17%.
+--- epoch: 30 ---
+training loss: 0.4737, acc: 83.53%, dev loss: 0.6426, acc: 72.48%.
+--- epoch: 31 ---
+training loss: 0.3788, acc: 85.38%, dev loss: 0.7201, acc: 68.46%.
+--- epoch: 32 ---
+training loss: 0.3383, acc: 89.41%, dev loss: 0.6378, acc: 71.14%.
+--- epoch: 33 ---
+training loss: 0.3935, acc: 85.04%, dev loss: 0.7081, acc: 70.47%.
+--- epoch: 34 ---
+training loss: 0.3531, acc: 87.39%, dev loss: 0.6155, acc: 72.48%.
+--- epoch: 35 ---
+training loss: 0.3709, acc: 85.38%, dev loss: 0.6984, acc: 72.48%.
+--- epoch: 36 ---
+training loss: 0.3310, acc: 87.56%, dev loss: 0.6788, acc: 71.14%.
+--- epoch: 37 ---
+training loss: 0.3436, acc: 86.55%, dev loss: 0.6611, acc: 73.15%.
+--- epoch: 38 ---
+training loss: 0.3169, acc: 88.40%, dev loss: 0.6626, acc: 74.50%.
+--- epoch: 39 ---
+training loss: 0.2895, acc: 90.76%, dev loss: 0.6589, acc: 76.51%.
+--- epoch: 40 ---
+training loss: 0.3323, acc: 88.91%, dev loss: 0.6964, acc: 71.81%.
+--- epoch: 41 ---
+training loss: 0.2820, acc: 92.27%, dev loss: 0.8335, acc: 73.15%.
+--- epoch: 42 ---
+training loss: 0.3036, acc: 90.42%, dev loss: 0.6823, acc: 73.83%.
+--- epoch: 43 ---
+training loss: 0.2524, acc: 91.43%, dev loss: 0.6676, acc: 72.48%.
+--- epoch: 44 ---
+training loss: 0.2227, acc: 91.93%, dev loss: 0.6741, acc: 75.17%.
+--- epoch: 45 ---
+training loss: 0.2344, acc: 91.60%, dev loss: 0.6316, acc: 72.48%.
+--- epoch: 46 ---
+training loss: 0.2076, acc: 93.45%, dev loss: 0.6422, acc: 77.85%.
+--- epoch: 47 ---
+training loss: 0.2855, acc: 90.08%, dev loss: 0.6173, acc: 74.50%.
+--- epoch: 48 ---
+training loss: 0.2730, acc: 90.08%, dev loss: 0.6399, acc: 73.15%.
+--- epoch: 49 ---
+training loss: 0.2597, acc: 91.26%, dev loss: 0.6469, acc: 70.47%.
+--- epoch: 50 ---
+training loss: 0.2257, acc: 93.11%, dev loss: 0.6574, acc: 77.18%.
+--- epoch: 51 ---
+training loss: 0.2266, acc: 91.76%, dev loss: 0.6627, acc: 75.84%.
+--- epoch: 52 ---
+training loss: 0.2614, acc: 89.41%, dev loss: 0.7234, acc: 73.15%.
+--- epoch: 53 ---
+training loss: 0.2376, acc: 92.94%, dev loss: 0.7058, acc: 74.50%.
+--- epoch: 54 ---
+training loss: 0.2294, acc: 92.77%, dev loss: 0.6554, acc: 77.18%.
+--- epoch: 55 ---
+training loss: 0.1850, acc: 94.12%, dev loss: 0.6570, acc: 77.18%.
+--- epoch: 56 ---
+training loss: 0.1802, acc: 95.13%, dev loss: 0.6223, acc: 73.15%.
+--- epoch: 57 ---
+training loss: 0.2058, acc: 93.11%, dev loss: 0.6132, acc: 75.84%.
+--- epoch: 58 ---
+training loss: 0.2608, acc: 92.27%, dev loss: 0.7939, acc: 71.81%.
+--- epoch: 59 ---
+training loss: 0.2166, acc: 93.61%, dev loss: 0.6854, acc: 73.15%.
+--- epoch: 60 ---
+training loss: 0.1883, acc: 94.29%, dev loss: 0.7258, acc: 72.48%.
+--- epoch: 61 ---
+training loss: 0.2629, acc: 91.09%, dev loss: 0.6317, acc: 75.17%.
+--- epoch: 62 ---
+training loss: 0.1850, acc: 93.95%, dev loss: 0.6187, acc: 77.85%.
+--- epoch: 63 ---
+training loss: 0.2310, acc: 91.43%, dev loss: 0.6771, acc: 74.50%.
+--- epoch: 64 ---
+training loss: 0.2247, acc: 92.77%, dev loss: 0.6146, acc: 78.52%.
+--- epoch: 65 ---
+training loss: 0.1810, acc: 94.29%, dev loss: 0.6451, acc: 77.85%.
+--- epoch: 66 ---
+training loss: 0.1646, acc: 95.13%, dev loss: 0.6582, acc: 74.50%.
+--- epoch: 67 ---
+training loss: 0.1524, acc: 96.13%, dev loss: 0.6506, acc: 75.17%.
+--- epoch: 68 ---
+training loss: 0.1689, acc: 94.79%, dev loss: 0.6566, acc: 77.85%.
+--- epoch: 69 ---
+training loss: 0.1570, acc: 95.80%, dev loss: 0.7170, acc: 75.84%.
+--- epoch: 70 ---
+training loss: 0.1514, acc: 96.13%, dev loss: 0.6385, acc: 75.84%.
+--- epoch: 71 ---
+training loss: 0.1791, acc: 93.95%, dev loss: 0.6783, acc: 75.84%.
+--- epoch: 72 ---
+training loss: 0.1554, acc: 95.13%, dev loss: 0.6946, acc: 73.83%.
+--- epoch: 73 ---
+training loss: 0.1583, acc: 95.46%, dev loss: 0.7015, acc: 73.15%.
+--- epoch: 74 ---
+training loss: 0.1546, acc: 94.79%, dev loss: 0.6823, acc: 71.81%.
+--- epoch: 75 ---
+training loss: 0.1624, acc: 94.29%, dev loss: 0.6928, acc: 75.84%.
+--- epoch: 76 ---
+training loss: 0.1879, acc: 93.78%, dev loss: 0.8155, acc: 72.48%.
+--- epoch: 77 ---
+training loss: 0.1986, acc: 93.95%, dev loss: 0.6502, acc: 77.18%.
+--- epoch: 78 ---
+training loss: 0.1801, acc: 94.79%, dev loss: 0.6596, acc: 79.19%.
+--- epoch: 79 ---
+training loss: 0.1834, acc: 93.61%, dev loss: 0.7998, acc: 73.83%.
+--- epoch: 80 ---
+training loss: 0.1673, acc: 95.46%, dev loss: 0.6841, acc: 74.50%.
+--- epoch: 81 ---
+training loss: 0.1743, acc: 94.12%, dev loss: 0.7431, acc: 73.83%.
+--- epoch: 82 ---
+training loss: 0.1614, acc: 94.96%, dev loss: 0.6265, acc: 77.85%.
+--- epoch: 83 ---
+training loss: 0.1444, acc: 96.30%, dev loss: 0.7871, acc: 71.81%.
+--- epoch: 84 ---
+training loss: 0.1538, acc: 94.29%, dev loss: 0.8566, acc: 75.17%.
+--- epoch: 85 ---
+training loss: 0.2050, acc: 92.77%, dev loss: 0.6335, acc: 76.51%.
+--- epoch: 86 ---
+training loss: 0.2020, acc: 94.29%, dev loss: 0.8772, acc: 75.17%.
+--- epoch: 87 ---
+training loss: 0.1665, acc: 94.62%, dev loss: 0.7017, acc: 76.51%.
+--- epoch: 88 ---
+training loss: 0.1749, acc: 95.63%, dev loss: 0.6726, acc: 74.50%.
+--- epoch: 89 ---
+training loss: 0.1482, acc: 95.63%, dev loss: 0.9110, acc: 71.81%.
+--- epoch: 90 ---
+training loss: 0.1342, acc: 95.80%, dev loss: 0.6716, acc: 75.17%.
+--- epoch: 91 ---
+training loss: 0.1375, acc: 96.47%, dev loss: 0.6146, acc: 79.87%.
+--- epoch: 92 ---
+training loss: 0.1552, acc: 94.79%, dev loss: 0.5996, acc: 77.18%.
+--- epoch: 93 ---
+training loss: 0.1272, acc: 96.47%, dev loss: 0.6539, acc: 76.51%.
+--- epoch: 94 ---
+training loss: 0.1429, acc: 95.80%, dev loss: 0.7342, acc: 75.84%.
+--- epoch: 95 ---
+training loss: 0.1559, acc: 95.13%, dev loss: 0.6342, acc: 80.54%.
+--- epoch: 96 ---
+training loss: 0.0973, acc: 98.15%, dev loss: 0.8894, acc: 72.48%.
+--- epoch: 97 ---
+training loss: 0.1723, acc: 94.79%, dev loss: 0.7289, acc: 75.17%.
+--- epoch: 98 ---
+training loss: 0.1653, acc: 93.28%, dev loss: 0.5892, acc: 79.19%.
+--- epoch: 99 ---
+training loss: 0.1135, acc: 97.65%, dev loss: 0.6763, acc: 81.21%.
+--- epoch: 100 ---
+training loss: 0.1349, acc: 95.80%, dev loss: 0.7150, acc: 76.51%.
+best dev acc: 0.8121
+===========fold:2==============
+--- epoch: 1 ---
+training loss: 1.6752, acc: 28.40%, dev loss: 1.4677, acc: 33.56%.
+--- epoch: 2 ---
+training loss: 1.4628, acc: 41.34%, dev loss: 1.2660, acc: 44.30%.
+--- epoch: 3 ---
+training loss: 1.3616, acc: 42.35%, dev loss: 1.2172, acc: 48.32%.
+--- epoch: 4 ---
+training loss: 1.2992, acc: 49.08%, dev loss: 1.1414, acc: 54.36%.
+--- epoch: 5 ---
+training loss: 1.2531, acc: 49.75%, dev loss: 1.0845, acc: 53.69%.
+--- epoch: 6 ---
+training loss: 1.2058, acc: 54.29%, dev loss: 1.1077, acc: 55.70%.
+--- epoch: 7 ---
+training loss: 1.0881, acc: 58.66%, dev loss: 0.9394, acc: 65.77%.
+--- epoch: 8 ---
+training loss: 1.0348, acc: 60.00%, dev loss: 0.8939, acc: 62.42%.
+--- epoch: 9 ---
+training loss: 1.0048, acc: 64.20%, dev loss: 0.8545, acc: 71.81%.
+--- epoch: 10 ---
+training loss: 0.9535, acc: 64.71%, dev loss: 0.9129, acc: 65.77%.
+--- epoch: 11 ---
+training loss: 0.9236, acc: 67.23%, dev loss: 0.8534, acc: 67.79%.
+--- epoch: 12 ---
+training loss: 0.8435, acc: 69.75%, dev loss: 0.7883, acc: 71.81%.
+--- epoch: 13 ---
+training loss: 0.7934, acc: 74.45%, dev loss: 0.7461, acc: 71.81%.
+--- epoch: 14 ---
+training loss: 0.8141, acc: 68.91%, dev loss: 0.7615, acc: 73.15%.
+--- epoch: 15 ---
+training loss: 0.7521, acc: 71.93%, dev loss: 0.7587, acc: 73.83%.
+--- epoch: 16 ---
+training loss: 0.7732, acc: 71.76%, dev loss: 0.7331, acc: 69.13%.
+--- epoch: 17 ---
+training loss: 0.7468, acc: 71.26%, dev loss: 0.7364, acc: 71.81%.
+--- epoch: 18 ---
+training loss: 0.7415, acc: 71.93%, dev loss: 0.7103, acc: 71.81%.
+--- epoch: 19 ---
+training loss: 0.6530, acc: 75.46%, dev loss: 0.6885, acc: 73.83%.
+--- epoch: 20 ---
+training loss: 0.6127, acc: 77.82%, dev loss: 0.7362, acc: 71.81%.
+--- epoch: 21 ---
+training loss: 0.6586, acc: 76.97%, dev loss: 0.7194, acc: 68.46%.
+--- epoch: 22 ---
+training loss: 0.6496, acc: 76.47%, dev loss: 0.7503, acc: 70.47%.
+--- epoch: 23 ---
+training loss: 0.6474, acc: 76.47%, dev loss: 0.7066, acc: 69.13%.
+--- epoch: 24 ---
+training loss: 0.6172, acc: 78.82%, dev loss: 0.6550, acc: 73.83%.
+--- epoch: 25 ---
+training loss: 0.6219, acc: 77.82%, dev loss: 0.6442, acc: 75.84%.
+--- epoch: 26 ---
+training loss: 0.5291, acc: 79.33%, dev loss: 0.6767, acc: 72.48%.
+--- epoch: 27 ---
+training loss: 0.5193, acc: 81.34%, dev loss: 0.6902, acc: 74.50%.
+--- epoch: 28 ---
+training loss: 0.5694, acc: 79.50%, dev loss: 0.6753, acc: 75.84%.
+--- epoch: 29 ---
+training loss: 0.5426, acc: 78.99%, dev loss: 0.6647, acc: 73.15%.
+--- epoch: 30 ---
+training loss: 0.5038, acc: 80.34%, dev loss: 0.6259, acc: 75.84%.
+--- epoch: 31 ---
+training loss: 0.4852, acc: 83.53%, dev loss: 0.6489, acc: 73.83%.
+--- epoch: 32 ---
+training loss: 0.5170, acc: 81.18%, dev loss: 0.6009, acc: 75.84%.
+--- epoch: 33 ---
+training loss: 0.4301, acc: 84.37%, dev loss: 0.6464, acc: 74.50%.
+--- epoch: 34 ---
+training loss: 0.4472, acc: 85.21%, dev loss: 0.6036, acc: 74.50%.
+--- epoch: 35 ---
+training loss: 0.4339, acc: 82.86%, dev loss: 0.5882, acc: 73.15%.
+--- epoch: 36 ---
+training loss: 0.4526, acc: 84.37%, dev loss: 0.6782, acc: 69.13%.
+--- epoch: 37 ---
+training loss: 0.4678, acc: 82.52%, dev loss: 0.6227, acc: 74.50%.
+--- epoch: 38 ---
+training loss: 0.4140, acc: 85.55%, dev loss: 0.5887, acc: 77.85%.
+--- epoch: 39 ---
+training loss: 0.4125, acc: 85.55%, dev loss: 0.6347, acc: 75.17%.
+--- epoch: 40 ---
+training loss: 0.4126, acc: 84.20%, dev loss: 0.5408, acc: 76.51%.
+--- epoch: 41 ---
+training loss: 0.3790, acc: 86.72%, dev loss: 0.6292, acc: 74.50%.
+--- epoch: 42 ---
+training loss: 0.3308, acc: 87.23%, dev loss: 0.5712, acc: 77.85%.
+--- epoch: 43 ---
+training loss: 0.3375, acc: 89.41%, dev loss: 0.6292, acc: 73.83%.
+--- epoch: 44 ---
+training loss: 0.3710, acc: 87.06%, dev loss: 0.6617, acc: 73.15%.
+--- epoch: 45 ---
+training loss: 0.3714, acc: 86.22%, dev loss: 0.6463, acc: 74.50%.
+--- epoch: 46 ---
+training loss: 0.3524, acc: 87.23%, dev loss: 0.5799, acc: 75.17%.
+--- epoch: 47 ---
+training loss: 0.3010, acc: 90.42%, dev loss: 0.5784, acc: 77.18%.
+--- epoch: 48 ---
+training loss: 0.2848, acc: 90.25%, dev loss: 0.6185, acc: 75.84%.
+--- epoch: 49 ---
+training loss: 0.3591, acc: 86.22%, dev loss: 0.6493, acc: 75.84%.
+--- epoch: 50 ---
+training loss: 0.3062, acc: 89.92%, dev loss: 0.5659, acc: 77.85%.
+--- epoch: 51 ---
+training loss: 0.2587, acc: 90.42%, dev loss: 0.6950, acc: 77.18%.
+--- epoch: 52 ---
+training loss: 0.2931, acc: 89.08%, dev loss: 0.6485, acc: 75.17%.
+--- epoch: 53 ---
+training loss: 0.2775, acc: 89.75%, dev loss: 0.5447, acc: 75.84%.
+--- epoch: 54 ---
+training loss: 0.2713, acc: 91.43%, dev loss: 0.5691, acc: 76.51%.
+--- epoch: 55 ---
+training loss: 0.2941, acc: 89.08%, dev loss: 0.6264, acc: 76.51%.
+--- epoch: 56 ---
+training loss: 0.3046, acc: 89.58%, dev loss: 0.5774, acc: 74.50%.
+--- epoch: 57 ---
+training loss: 0.2544, acc: 93.28%, dev loss: 0.6254, acc: 75.84%.
+--- epoch: 58 ---
+training loss: 0.2531, acc: 92.44%, dev loss: 0.5958, acc: 77.18%.
+--- epoch: 59 ---
+training loss: 0.3161, acc: 89.75%, dev loss: 0.5947, acc: 77.18%.
+--- epoch: 60 ---
+training loss: 0.2612, acc: 91.09%, dev loss: 0.5906, acc: 77.85%.
+--- epoch: 61 ---
+training loss: 0.2348, acc: 92.61%, dev loss: 0.4925, acc: 78.52%.
+--- epoch: 62 ---
+training loss: 0.1933, acc: 94.62%, dev loss: 0.5913, acc: 79.87%.
+--- epoch: 63 ---
+training loss: 0.2467, acc: 90.25%, dev loss: 0.5675, acc: 76.51%.
+--- epoch: 64 ---
+training loss: 0.2217, acc: 92.44%, dev loss: 0.5153, acc: 80.54%.
+--- epoch: 65 ---
+training loss: 0.2309, acc: 93.28%, dev loss: 0.5838, acc: 77.18%.
+--- epoch: 66 ---
+training loss: 0.2072, acc: 93.28%, dev loss: 0.5676, acc: 77.85%.
+--- epoch: 67 ---
+training loss: 0.2073, acc: 92.94%, dev loss: 0.9077, acc: 75.17%.
+--- epoch: 68 ---
+training loss: 0.2531, acc: 91.43%, dev loss: 0.5317, acc: 77.18%.
+--- epoch: 69 ---
+training loss: 0.2179, acc: 92.77%, dev loss: 0.5792, acc: 78.52%.
+--- epoch: 70 ---
+training loss: 0.2230, acc: 93.45%, dev loss: 0.5333, acc: 79.19%.
+--- epoch: 71 ---
+training loss: 0.2207, acc: 93.11%, dev loss: 0.5540, acc: 79.87%.
+--- epoch: 72 ---
+training loss: 0.2240, acc: 92.10%, dev loss: 0.5630, acc: 80.54%.
+--- epoch: 73 ---
+training loss: 0.1833, acc: 93.78%, dev loss: 0.6391, acc: 80.54%.
+--- epoch: 74 ---
+training loss: 0.2835, acc: 89.24%, dev loss: 0.6127, acc: 74.50%.
+--- epoch: 75 ---
+training loss: 0.2469, acc: 92.10%, dev loss: 0.5218, acc: 78.52%.
+--- epoch: 76 ---
+training loss: 0.1699, acc: 94.96%, dev loss: 0.5531, acc: 81.21%.
+--- epoch: 77 ---
+training loss: 0.2156, acc: 91.93%, dev loss: 0.4987, acc: 81.21%.
+--- epoch: 78 ---
+training loss: 0.2011, acc: 93.61%, dev loss: 0.6200, acc: 79.87%.
+--- epoch: 79 ---
+training loss: 0.2309, acc: 92.27%, dev loss: 0.6009, acc: 77.18%.
+--- epoch: 80 ---
+training loss: 0.2131, acc: 93.45%, dev loss: 0.6465, acc: 77.18%.
+--- epoch: 81 ---
+training loss: 0.2188, acc: 92.10%, dev loss: 0.5239, acc: 79.87%.
+--- epoch: 82 ---
+training loss: 0.1949, acc: 93.95%, dev loss: 0.5075, acc: 79.19%.
+--- epoch: 83 ---
+training loss: 0.1505, acc: 94.96%, dev loss: 0.5388, acc: 80.54%.
+--- epoch: 84 ---
+training loss: 0.1816, acc: 93.78%, dev loss: 0.5337, acc: 78.52%.
+--- epoch: 85 ---
+training loss: 0.1884, acc: 94.62%, dev loss: 0.5376, acc: 80.54%.
+--- epoch: 86 ---
+training loss: 0.1420, acc: 95.13%, dev loss: 0.5306, acc: 80.54%.
+--- epoch: 87 ---
+training loss: 0.1350, acc: 96.64%, dev loss: 0.6519, acc: 79.19%.
+--- epoch: 88 ---
+training loss: 0.1760, acc: 94.29%, dev loss: 0.6645, acc: 79.87%.
+--- epoch: 89 ---
+training loss: 0.1875, acc: 94.12%, dev loss: 0.6370, acc: 78.52%.
+--- epoch: 90 ---
+training loss: 0.1788, acc: 93.45%, dev loss: 0.6026, acc: 79.19%.
+--- epoch: 91 ---
+training loss: 0.1772, acc: 93.45%, dev loss: 0.5437, acc: 75.84%.
+--- epoch: 92 ---
+training loss: 0.1829, acc: 93.95%, dev loss: 0.5754, acc: 77.85%.
+--- epoch: 93 ---
+training loss: 0.1689, acc: 94.79%, dev loss: 0.5333, acc: 83.89%.
+--- epoch: 94 ---
+training loss: 0.1318, acc: 95.97%, dev loss: 0.6546, acc: 73.83%.
+--- epoch: 95 ---
+training loss: 0.1521, acc: 94.79%, dev loss: 0.7130, acc: 75.84%.
+--- epoch: 96 ---
+training loss: 0.1732, acc: 94.62%, dev loss: 0.5414, acc: 82.55%.
+--- epoch: 97 ---
+training loss: 0.1629, acc: 94.29%, dev loss: 0.5385, acc: 80.54%.
+--- epoch: 98 ---
+training loss: 0.1770, acc: 92.94%, dev loss: 0.6127, acc: 79.19%.
+--- epoch: 99 ---
+training loss: 0.1771, acc: 94.45%, dev loss: 0.4772, acc: 78.52%.
+--- epoch: 100 ---
+training loss: 0.1304, acc: 96.81%, dev loss: 0.5175, acc: 80.54%.
+best dev acc: 0.8389
+===========fold:3==============
+--- epoch: 1 ---
+training loss: 1.7298, acc: 29.08%, dev loss: 1.6323, acc: 29.53%.
+--- epoch: 2 ---
+training loss: 1.5793, acc: 33.95%, dev loss: 1.3927, acc: 42.28%.
+--- epoch: 3 ---
+training loss: 1.4175, acc: 45.71%, dev loss: 1.2930, acc: 47.65%.
+--- epoch: 4 ---
+training loss: 1.2764, acc: 46.72%, dev loss: 1.1606, acc: 50.34%.
+--- epoch: 5 ---
+training loss: 1.2247, acc: 51.60%, dev loss: 1.1826, acc: 53.69%.
+--- epoch: 6 ---
+training loss: 1.1729, acc: 53.28%, dev loss: 1.0973, acc: 59.06%.
+--- epoch: 7 ---
+training loss: 1.0586, acc: 61.51%, dev loss: 1.0188, acc: 55.70%.
+--- epoch: 8 ---
+training loss: 0.9765, acc: 62.69%, dev loss: 1.0493, acc: 55.70%.
+--- epoch: 9 ---
+training loss: 0.9500, acc: 64.71%, dev loss: 0.8864, acc: 65.10%.
+--- epoch: 10 ---
+training loss: 0.8975, acc: 67.06%, dev loss: 0.8629, acc: 67.79%.
+--- epoch: 11 ---
+training loss: 0.7935, acc: 71.26%, dev loss: 0.8230, acc: 71.81%.
+--- epoch: 12 ---
+training loss: 0.8481, acc: 71.43%, dev loss: 0.7952, acc: 71.14%.
+--- epoch: 13 ---
+training loss: 0.8373, acc: 67.90%, dev loss: 0.8607, acc: 61.74%.
+--- epoch: 14 ---
+training loss: 0.7840, acc: 71.60%, dev loss: 0.7548, acc: 68.46%.
+--- epoch: 15 ---
+training loss: 0.7134, acc: 74.79%, dev loss: 0.7636, acc: 68.46%.
+--- epoch: 16 ---
+training loss: 0.6828, acc: 74.79%, dev loss: 0.7424, acc: 65.10%.
+--- epoch: 17 ---
+training loss: 0.6920, acc: 74.29%, dev loss: 0.7834, acc: 67.11%.
+--- epoch: 18 ---
+training loss: 0.7449, acc: 72.61%, dev loss: 0.7429, acc: 68.46%.
+--- epoch: 19 ---
+training loss: 0.6116, acc: 79.33%, dev loss: 0.7092, acc: 69.80%.
+--- epoch: 20 ---
+training loss: 0.6502, acc: 76.47%, dev loss: 0.6983, acc: 71.81%.
+--- epoch: 21 ---
+training loss: 0.6265, acc: 76.30%, dev loss: 0.7888, acc: 64.43%.
+--- epoch: 22 ---
+training loss: 0.5909, acc: 80.50%, dev loss: 0.7006, acc: 67.79%.
+--- epoch: 23 ---
+training loss: 0.6080, acc: 76.81%, dev loss: 0.6571, acc: 69.13%.
+--- epoch: 24 ---
+training loss: 0.5649, acc: 80.17%, dev loss: 0.6720, acc: 69.13%.
+--- epoch: 25 ---
+training loss: 0.5537, acc: 79.66%, dev loss: 0.6343, acc: 72.48%.
+--- epoch: 26 ---
+training loss: 0.5407, acc: 80.34%, dev loss: 0.6592, acc: 70.47%.
+--- epoch: 27 ---
+training loss: 0.5187, acc: 81.18%, dev loss: 0.6531, acc: 72.48%.
+--- epoch: 28 ---
+training loss: 0.5184, acc: 81.68%, dev loss: 0.7248, acc: 67.79%.
+--- epoch: 29 ---
+training loss: 0.5062, acc: 80.67%, dev loss: 0.7243, acc: 67.11%.
+--- epoch: 30 ---
+training loss: 0.5564, acc: 80.17%, dev loss: 0.6555, acc: 71.81%.
+--- epoch: 31 ---
+training loss: 0.4813, acc: 82.35%, dev loss: 0.6879, acc: 71.14%.
+--- epoch: 32 ---
+training loss: 0.5531, acc: 79.66%, dev loss: 0.5995, acc: 75.84%.
+--- epoch: 33 ---
+training loss: 0.4923, acc: 83.03%, dev loss: 0.7765, acc: 64.43%.
+--- epoch: 34 ---
+training loss: 0.4491, acc: 83.19%, dev loss: 0.6714, acc: 72.48%.
+--- epoch: 35 ---
+training loss: 0.4433, acc: 84.87%, dev loss: 0.6919, acc: 70.47%.
+--- epoch: 36 ---
+training loss: 0.4098, acc: 85.04%, dev loss: 0.6405, acc: 73.83%.
+--- epoch: 37 ---
+training loss: 0.4695, acc: 83.87%, dev loss: 0.6995, acc: 72.48%.
+--- epoch: 38 ---
+training loss: 0.4530, acc: 82.18%, dev loss: 0.7764, acc: 69.13%.
+--- epoch: 39 ---
+training loss: 0.4482, acc: 84.87%, dev loss: 0.5904, acc: 76.51%.
+--- epoch: 40 ---
+training loss: 0.4537, acc: 82.86%, dev loss: 0.6749, acc: 71.81%.
+--- epoch: 41 ---
+training loss: 0.3893, acc: 86.22%, dev loss: 0.6743, acc: 71.81%.
+--- epoch: 42 ---
+training loss: 0.4075, acc: 86.05%, dev loss: 0.6011, acc: 73.15%.
+--- epoch: 43 ---
+training loss: 0.3621, acc: 88.91%, dev loss: 0.7304, acc: 74.50%.
+--- epoch: 44 ---
+training loss: 0.3673, acc: 87.23%, dev loss: 0.5815, acc: 73.15%.
+--- epoch: 45 ---
+training loss: 0.3084, acc: 89.41%, dev loss: 0.6018, acc: 77.18%.
+--- epoch: 46 ---
+training loss: 0.3121, acc: 87.56%, dev loss: 0.6672, acc: 72.48%.
+--- epoch: 47 ---
+training loss: 0.3714, acc: 85.88%, dev loss: 0.7070, acc: 69.80%.
+--- epoch: 48 ---
+training loss: 0.3901, acc: 85.55%, dev loss: 0.6230, acc: 69.80%.
+--- epoch: 49 ---
+training loss: 0.3536, acc: 88.24%, dev loss: 0.6298, acc: 73.15%.
+--- epoch: 50 ---
+training loss: 0.2834, acc: 91.09%, dev loss: 0.5920, acc: 73.83%.
+--- epoch: 51 ---
+training loss: 0.3027, acc: 89.08%, dev loss: 0.6827, acc: 73.15%.
+--- epoch: 52 ---
+training loss: 0.3284, acc: 87.56%, dev loss: 0.6121, acc: 74.50%.
+--- epoch: 53 ---
+training loss: 0.2826, acc: 89.58%, dev loss: 0.5984, acc: 74.50%.
+--- epoch: 54 ---
+training loss: 0.2776, acc: 92.10%, dev loss: 0.5991, acc: 74.50%.
+--- epoch: 55 ---
+training loss: 0.2853, acc: 90.76%, dev loss: 0.5622, acc: 76.51%.
+--- epoch: 56 ---
+training loss: 0.2234, acc: 93.61%, dev loss: 0.6948, acc: 73.83%.
+--- epoch: 57 ---
+training loss: 0.2389, acc: 91.09%, dev loss: 0.6252, acc: 77.18%.
+--- epoch: 58 ---
+training loss: 0.3037, acc: 89.24%, dev loss: 0.6576, acc: 73.83%.
+--- epoch: 59 ---
+training loss: 0.2621, acc: 91.76%, dev loss: 0.5811, acc: 75.84%.
+--- epoch: 60 ---
+training loss: 0.2638, acc: 91.26%, dev loss: 0.6117, acc: 77.18%.
+--- epoch: 61 ---
+training loss: 0.2763, acc: 91.26%, dev loss: 0.6848, acc: 74.50%.
+--- epoch: 62 ---
+training loss: 0.2354, acc: 92.61%, dev loss: 0.6994, acc: 71.14%.
+--- epoch: 63 ---
+training loss: 0.2527, acc: 91.26%, dev loss: 0.6195, acc: 74.50%.
+--- epoch: 64 ---
+training loss: 0.2421, acc: 91.93%, dev loss: 0.6877, acc: 73.15%.
+--- epoch: 65 ---
+training loss: 0.2322, acc: 92.94%, dev loss: 0.6073, acc: 76.51%.
+--- epoch: 66 ---
+training loss: 0.2199, acc: 92.94%, dev loss: 0.5305, acc: 77.18%.
+--- epoch: 67 ---
+training loss: 0.2296, acc: 92.61%, dev loss: 0.6475, acc: 75.84%.
+--- epoch: 68 ---
+training loss: 0.2635, acc: 91.76%, dev loss: 0.5874, acc: 77.18%.
+--- epoch: 69 ---
+training loss: 0.2164, acc: 93.11%, dev loss: 0.5578, acc: 77.18%.
+--- epoch: 70 ---
+training loss: 0.2393, acc: 93.11%, dev loss: 0.5759, acc: 75.17%.
+--- epoch: 71 ---
+training loss: 0.2260, acc: 92.44%, dev loss: 0.6742, acc: 75.84%.
+--- epoch: 72 ---
+training loss: 0.2533, acc: 90.76%, dev loss: 0.5664, acc: 79.19%.
+--- epoch: 73 ---
+training loss: 0.2756, acc: 89.58%, dev loss: 0.5874, acc: 76.51%.
+--- epoch: 74 ---
+training loss: 0.1974, acc: 92.94%, dev loss: 0.6448, acc: 78.52%.
+--- epoch: 75 ---
+training loss: 0.2251, acc: 92.10%, dev loss: 0.5761, acc: 77.85%.
+--- epoch: 76 ---
+training loss: 0.1891, acc: 94.62%, dev loss: 0.5631, acc: 76.51%.
+--- epoch: 77 ---
+training loss: 0.1877, acc: 92.61%, dev loss: 0.5487, acc: 75.84%.
+--- epoch: 78 ---
+training loss: 0.2003, acc: 93.45%, dev loss: 0.6610, acc: 75.17%.
+--- epoch: 79 ---
+training loss: 0.2308, acc: 92.44%, dev loss: 0.6583, acc: 77.18%.
+--- epoch: 80 ---
+training loss: 0.1978, acc: 92.94%, dev loss: 0.6965, acc: 75.84%.
+--- epoch: 81 ---
+training loss: 0.2078, acc: 93.28%, dev loss: 0.7951, acc: 69.80%.
+--- epoch: 82 ---
+training loss: 0.2147, acc: 93.45%, dev loss: 0.6636, acc: 74.50%.
+--- epoch: 83 ---
+training loss: 0.1684, acc: 94.62%, dev loss: 0.7440, acc: 74.50%.
+--- epoch: 84 ---
+training loss: 0.1958, acc: 94.12%, dev loss: 0.5586, acc: 81.21%.
+--- epoch: 85 ---
+training loss: 0.2042, acc: 94.12%, dev loss: 0.7074, acc: 76.51%.
+--- epoch: 86 ---
+training loss: 0.1920, acc: 92.94%, dev loss: 0.5062, acc: 83.22%.
+--- epoch: 87 ---
+training loss: 0.1953, acc: 93.11%, dev loss: 0.7054, acc: 72.48%.
+--- epoch: 88 ---
+training loss: 0.2068, acc: 93.78%, dev loss: 0.5350, acc: 79.19%.
+--- epoch: 89 ---
+training loss: 0.1748, acc: 93.45%, dev loss: 0.6562, acc: 73.83%.
+--- epoch: 90 ---
+training loss: 0.1931, acc: 93.28%, dev loss: 0.7345, acc: 74.50%.
+--- epoch: 91 ---
+training loss: 0.1782, acc: 94.12%, dev loss: 0.5430, acc: 79.87%.
+--- epoch: 92 ---
+training loss: 0.1965, acc: 93.11%, dev loss: 0.5663, acc: 78.52%.
+--- epoch: 93 ---
+training loss: 0.1950, acc: 94.79%, dev loss: 0.6896, acc: 75.84%.
+--- epoch: 94 ---
+training loss: 0.2083, acc: 92.94%, dev loss: 0.7036, acc: 73.15%.
+--- epoch: 95 ---
+training loss: 0.2337, acc: 92.77%, dev loss: 0.6035, acc: 76.51%.
+--- epoch: 96 ---
+training loss: 0.1853, acc: 93.61%, dev loss: 0.5596, acc: 77.85%.
+--- epoch: 97 ---
+training loss: 0.1743, acc: 95.46%, dev loss: 0.5767, acc: 77.85%.
+--- epoch: 98 ---
+training loss: 0.1365, acc: 95.80%, dev loss: 0.6550, acc: 75.84%.
+--- epoch: 99 ---
+training loss: 0.1606, acc: 94.12%, dev loss: 0.6129, acc: 77.18%.
+--- epoch: 100 ---
+training loss: 0.2010, acc: 93.78%, dev loss: 0.7358, acc: 73.83%.
+best dev acc: 0.8322
+===========fold:4==============
+--- epoch: 1 ---
+training loss: 1.7062, acc: 27.06%, dev loss: 1.5808, acc: 29.53%.
+--- epoch: 2 ---
+training loss: 1.5674, acc: 35.29%, dev loss: 1.3835, acc: 48.99%.
+--- epoch: 3 ---
+training loss: 1.3722, acc: 46.22%, dev loss: 1.1478, acc: 55.70%.
+--- epoch: 4 ---
+training loss: 1.2065, acc: 53.95%, dev loss: 1.0876, acc: 57.05%.
+--- epoch: 5 ---
+training loss: 1.0691, acc: 58.49%, dev loss: 0.9720, acc: 61.07%.
+--- epoch: 6 ---
+training loss: 1.0716, acc: 60.50%, dev loss: 1.0054, acc: 58.39%.
+--- epoch: 7 ---
+training loss: 1.0023, acc: 62.35%, dev loss: 1.0082, acc: 61.74%.
+--- epoch: 8 ---
+training loss: 0.9679, acc: 64.37%, dev loss: 0.9738, acc: 61.74%.
+--- epoch: 9 ---
+training loss: 0.9046, acc: 70.42%, dev loss: 0.9421, acc: 65.10%.
+--- epoch: 10 ---
+training loss: 0.8716, acc: 68.07%, dev loss: 0.8403, acc: 68.46%.
+--- epoch: 11 ---
+training loss: 0.8702, acc: 68.40%, dev loss: 0.8442, acc: 58.39%.
+--- epoch: 12 ---
+training loss: 0.8665, acc: 68.07%, dev loss: 0.8430, acc: 66.44%.
+--- epoch: 13 ---
+training loss: 0.8284, acc: 69.58%, dev loss: 0.9723, acc: 63.76%.
+--- epoch: 14 ---
+training loss: 0.8149, acc: 69.75%, dev loss: 0.8516, acc: 66.44%.
+--- epoch: 15 ---
+training loss: 0.7438, acc: 73.61%, dev loss: 0.9394, acc: 66.44%.
+--- epoch: 16 ---
+training loss: 0.7976, acc: 69.24%, dev loss: 0.7695, acc: 70.47%.
+--- epoch: 17 ---
+training loss: 0.7187, acc: 74.79%, dev loss: 0.8191, acc: 67.79%.
+--- epoch: 18 ---
+training loss: 0.6678, acc: 76.47%, dev loss: 0.7867, acc: 71.81%.
+--- epoch: 19 ---
+training loss: 0.6776, acc: 76.81%, dev loss: 0.8371, acc: 63.09%.
+--- epoch: 20 ---
+training loss: 0.6792, acc: 76.81%, dev loss: 0.7863, acc: 68.46%.
+--- epoch: 21 ---
+training loss: 0.6155, acc: 76.47%, dev loss: 0.7427, acc: 71.81%.
+--- epoch: 22 ---
+training loss: 0.5733, acc: 79.66%, dev loss: 0.7702, acc: 69.80%.
+--- epoch: 23 ---
+training loss: 0.6309, acc: 78.15%, dev loss: 0.8400, acc: 69.80%.
+--- epoch: 24 ---
+training loss: 0.5672, acc: 80.84%, dev loss: 0.7342, acc: 74.50%.
+--- epoch: 25 ---
+training loss: 0.5427, acc: 77.82%, dev loss: 0.7887, acc: 70.47%.
+--- epoch: 26 ---
+training loss: 0.5863, acc: 78.49%, dev loss: 0.7649, acc: 68.46%.
+--- epoch: 27 ---
+training loss: 0.5374, acc: 81.85%, dev loss: 0.7558, acc: 71.14%.
+--- epoch: 28 ---
+training loss: 0.5114, acc: 82.35%, dev loss: 0.7477, acc: 69.80%.
+--- epoch: 29 ---
+training loss: 0.5602, acc: 78.82%, dev loss: 0.8528, acc: 67.79%.
+--- epoch: 30 ---
+training loss: 0.5441, acc: 80.67%, dev loss: 0.7610, acc: 67.79%.
+--- epoch: 31 ---
+training loss: 0.4943, acc: 83.70%, dev loss: 0.7289, acc: 71.14%.
+--- epoch: 32 ---
+training loss: 0.4670, acc: 83.53%, dev loss: 0.7402, acc: 78.52%.
+--- epoch: 33 ---
+training loss: 0.4612, acc: 81.85%, dev loss: 0.9191, acc: 69.13%.
+--- epoch: 34 ---
+training loss: 0.5279, acc: 81.51%, dev loss: 0.7628, acc: 73.15%.
+--- epoch: 35 ---
+training loss: 0.4151, acc: 85.71%, dev loss: 0.7192, acc: 73.15%.
+--- epoch: 36 ---
+training loss: 0.3998, acc: 86.55%, dev loss: 0.6980, acc: 73.83%.
+--- epoch: 37 ---
+training loss: 0.3653, acc: 86.72%, dev loss: 0.7192, acc: 71.14%.
+--- epoch: 38 ---
+training loss: 0.4338, acc: 84.20%, dev loss: 1.0886, acc: 65.10%.
+--- epoch: 39 ---
+training loss: 0.4319, acc: 86.05%, dev loss: 0.7823, acc: 69.13%.
+--- epoch: 40 ---
+training loss: 0.3846, acc: 87.56%, dev loss: 0.7141, acc: 72.48%.
+--- epoch: 41 ---
+training loss: 0.3793, acc: 86.55%, dev loss: 0.7376, acc: 71.81%.
+--- epoch: 42 ---
+training loss: 0.3659, acc: 87.73%, dev loss: 0.7217, acc: 73.15%.
+--- epoch: 43 ---
+training loss: 0.3432, acc: 86.55%, dev loss: 0.7066, acc: 75.17%.
+--- epoch: 44 ---
+training loss: 0.3891, acc: 86.39%, dev loss: 0.7008, acc: 73.83%.
+--- epoch: 45 ---
+training loss: 0.3263, acc: 88.40%, dev loss: 0.7933, acc: 69.13%.
+--- epoch: 46 ---
+training loss: 0.3073, acc: 89.08%, dev loss: 0.7458, acc: 71.81%.
+--- epoch: 47 ---
+training loss: 0.2848, acc: 90.25%, dev loss: 0.8318, acc: 73.15%.
+--- epoch: 48 ---
+training loss: 0.3639, acc: 87.23%, dev loss: 0.9535, acc: 66.44%.
+--- epoch: 49 ---
+training loss: 0.3279, acc: 89.41%, dev loss: 0.7850, acc: 72.48%.
+--- epoch: 50 ---
+training loss: 0.2821, acc: 91.26%, dev loss: 0.6498, acc: 74.50%.
+--- epoch: 51 ---
+training loss: 0.2754, acc: 89.58%, dev loss: 0.6649, acc: 73.15%.
+--- epoch: 52 ---
+training loss: 0.2797, acc: 91.09%, dev loss: 0.6619, acc: 71.81%.
+--- epoch: 53 ---
+training loss: 0.3242, acc: 87.73%, dev loss: 0.7834, acc: 71.14%.
+--- epoch: 54 ---
+training loss: 0.3018, acc: 89.08%, dev loss: 0.7404, acc: 73.15%.
+--- epoch: 55 ---
+training loss: 0.2857, acc: 89.08%, dev loss: 0.7203, acc: 72.48%.
+--- epoch: 56 ---
+training loss: 0.2571, acc: 91.43%, dev loss: 0.6883, acc: 74.50%.
+--- epoch: 57 ---
+training loss: 0.2373, acc: 92.61%, dev loss: 0.7357, acc: 75.84%.
+--- epoch: 58 ---
+training loss: 0.2612, acc: 91.60%, dev loss: 0.6276, acc: 75.84%.
+--- epoch: 59 ---
+training loss: 0.2961, acc: 89.41%, dev loss: 0.6483, acc: 74.50%.
+--- epoch: 60 ---
+training loss: 0.2475, acc: 91.26%, dev loss: 0.6653, acc: 75.17%.
+--- epoch: 61 ---
+training loss: 0.2841, acc: 90.92%, dev loss: 0.7030, acc: 75.84%.
+--- epoch: 62 ---
+training loss: 0.2533, acc: 91.09%, dev loss: 0.6960, acc: 74.50%.
+--- epoch: 63 ---
+training loss: 0.2548, acc: 91.60%, dev loss: 0.7352, acc: 75.17%.
+--- epoch: 64 ---
+training loss: 0.2571, acc: 91.43%, dev loss: 0.6801, acc: 78.52%.
+--- epoch: 65 ---
+training loss: 0.2533, acc: 92.44%, dev loss: 0.7090, acc: 75.17%.
+--- epoch: 66 ---
+training loss: 0.1918, acc: 94.12%, dev loss: 0.6763, acc: 77.18%.
+--- epoch: 67 ---
+training loss: 0.2239, acc: 91.26%, dev loss: 0.7628, acc: 75.84%.
+--- epoch: 68 ---
+training loss: 0.1958, acc: 93.11%, dev loss: 0.7031, acc: 75.84%.
+--- epoch: 69 ---
+training loss: 0.2040, acc: 92.77%, dev loss: 0.7191, acc: 73.83%.
+--- epoch: 70 ---
+training loss: 0.2557, acc: 90.42%, dev loss: 0.8410, acc: 70.47%.
+--- epoch: 71 ---
+training loss: 0.2348, acc: 92.27%, dev loss: 0.8448, acc: 68.46%.
+--- epoch: 72 ---
+training loss: 0.1773, acc: 93.28%, dev loss: 0.6603, acc: 77.85%.
+--- epoch: 73 ---
+training loss: 0.1681, acc: 94.29%, dev loss: 0.7318, acc: 73.83%.
+--- epoch: 74 ---
+training loss: 0.1854, acc: 94.62%, dev loss: 0.7166, acc: 75.84%.
+--- epoch: 75 ---
+training loss: 0.1808, acc: 94.96%, dev loss: 0.7287, acc: 74.50%.
+--- epoch: 76 ---
+training loss: 0.2004, acc: 93.95%, dev loss: 0.6524, acc: 76.51%.
+--- epoch: 77 ---
+training loss: 0.2126, acc: 92.44%, dev loss: 0.6529, acc: 75.17%.
+--- epoch: 78 ---
+training loss: 0.1603, acc: 94.62%, dev loss: 0.7661, acc: 74.50%.
+--- epoch: 79 ---
+training loss: 0.2107, acc: 93.28%, dev loss: 0.6985, acc: 75.17%.
+--- epoch: 80 ---
+training loss: 0.2222, acc: 92.44%, dev loss: 0.7718, acc: 75.17%.
+--- epoch: 81 ---
+training loss: 0.1938, acc: 94.45%, dev loss: 0.9927, acc: 71.81%.
+--- epoch: 82 ---
+training loss: 0.2563, acc: 92.77%, dev loss: 0.7243, acc: 71.14%.
+--- epoch: 83 ---
+training loss: 0.2249, acc: 91.76%, dev loss: 0.7096, acc: 76.51%.
+--- epoch: 84 ---
+training loss: 0.1792, acc: 94.62%, dev loss: 0.6603, acc: 73.83%.
+--- epoch: 85 ---
+training loss: 0.1671, acc: 94.45%, dev loss: 0.8318, acc: 73.15%.
+--- epoch: 86 ---
+training loss: 0.1694, acc: 94.29%, dev loss: 0.6344, acc: 75.84%.
+--- epoch: 87 ---
+training loss: 0.1611, acc: 94.79%, dev loss: 0.6829, acc: 77.85%.
+--- epoch: 88 ---
+training loss: 0.2373, acc: 92.27%, dev loss: 0.7196, acc: 76.51%.
+--- epoch: 89 ---
+training loss: 0.2618, acc: 89.41%, dev loss: 0.6715, acc: 75.84%.
+--- epoch: 90 ---
+training loss: 0.1740, acc: 93.61%, dev loss: 0.6813, acc: 76.51%.
+--- epoch: 91 ---
+training loss: 0.1578, acc: 94.45%, dev loss: 0.6872, acc: 77.85%.
+--- epoch: 92 ---
+training loss: 0.1873, acc: 93.95%, dev loss: 0.6766, acc: 73.15%.
+--- epoch: 93 ---
+training loss: 0.1931, acc: 93.61%, dev loss: 0.6484, acc: 76.51%.
+--- epoch: 94 ---
+training loss: 0.1944, acc: 93.28%, dev loss: 0.6158, acc: 75.17%.
+--- epoch: 95 ---
+training loss: 0.1741, acc: 93.78%, dev loss: 0.7111, acc: 76.51%.
+--- epoch: 96 ---
+training loss: 0.1499, acc: 95.97%, dev loss: 0.6389, acc: 75.84%.
+--- epoch: 97 ---
+training loss: 0.1483, acc: 95.46%, dev loss: 0.7045, acc: 74.50%.
+--- epoch: 98 ---
+training loss: 0.1509, acc: 94.29%, dev loss: 0.6129, acc: 77.85%.
+--- epoch: 99 ---
+training loss: 0.1518, acc: 94.45%, dev loss: 0.6813, acc: 77.85%.
+--- epoch: 100 ---
+training loss: 0.1589, acc: 93.95%, dev loss: 0.6319, acc: 76.51%.
+best dev acc: 0.7852
+===========fold:5==============
+--- epoch: 1 ---
+training loss: 1.6895, acc: 29.19%, dev loss: 1.5382, acc: 29.73%.
+--- epoch: 2 ---
+training loss: 1.5152, acc: 38.09%, dev loss: 1.3386, acc: 44.59%.
+--- epoch: 3 ---
+training loss: 1.3716, acc: 43.96%, dev loss: 1.2225, acc: 48.65%.
+--- epoch: 4 ---
+training loss: 1.2812, acc: 50.84%, dev loss: 1.1562, acc: 49.32%.
+--- epoch: 5 ---
+training loss: 1.1378, acc: 55.87%, dev loss: 1.0433, acc: 56.08%.
+--- epoch: 6 ---
+training loss: 1.1006, acc: 59.56%, dev loss: 1.0255, acc: 61.49%.
+--- epoch: 7 ---
+training loss: 1.0064, acc: 60.23%, dev loss: 0.9269, acc: 64.86%.
+--- epoch: 8 ---
+training loss: 0.9189, acc: 67.45%, dev loss: 0.8977, acc: 66.22%.
+--- epoch: 9 ---
+training loss: 0.8673, acc: 68.12%, dev loss: 0.9280, acc: 65.54%.
+--- epoch: 10 ---
+training loss: 0.8304, acc: 69.97%, dev loss: 0.9396, acc: 62.84%.
+--- epoch: 11 ---
+training loss: 0.8408, acc: 68.12%, dev loss: 0.9076, acc: 65.54%.
+--- epoch: 12 ---
+training loss: 0.7633, acc: 73.66%, dev loss: 0.9304, acc: 65.54%.
+--- epoch: 13 ---
+training loss: 0.6896, acc: 75.34%, dev loss: 0.9248, acc: 66.22%.
+--- epoch: 14 ---
+training loss: 0.7733, acc: 69.97%, dev loss: 0.8052, acc: 68.92%.
+--- epoch: 15 ---
+training loss: 0.7224, acc: 71.14%, dev loss: 0.7804, acc: 75.68%.
+--- epoch: 16 ---
+training loss: 0.7135, acc: 73.15%, dev loss: 0.8195, acc: 70.27%.
+--- epoch: 17 ---
+training loss: 0.6570, acc: 74.50%, dev loss: 0.7945, acc: 68.24%.
+--- epoch: 18 ---
+training loss: 0.6009, acc: 76.85%, dev loss: 0.7691, acc: 72.30%.
+--- epoch: 19 ---
+training loss: 0.5969, acc: 76.68%, dev loss: 0.7426, acc: 75.68%.
+--- epoch: 20 ---
+training loss: 0.5777, acc: 77.35%, dev loss: 0.7798, acc: 72.97%.
+--- epoch: 21 ---
+training loss: 0.5486, acc: 80.87%, dev loss: 0.7594, acc: 72.30%.
+--- epoch: 22 ---
+training loss: 0.5882, acc: 79.03%, dev loss: 0.7982, acc: 73.65%.
+--- epoch: 23 ---
+training loss: 0.5610, acc: 79.19%, dev loss: 0.7614, acc: 70.27%.
+--- epoch: 24 ---
+training loss: 0.5203, acc: 81.38%, dev loss: 0.7674, acc: 72.30%.
+--- epoch: 25 ---
+training loss: 0.4946, acc: 82.38%, dev loss: 0.7621, acc: 69.59%.
+--- epoch: 26 ---
+training loss: 0.4819, acc: 82.55%, dev loss: 0.7604, acc: 72.30%.
+--- epoch: 27 ---
+training loss: 0.4998, acc: 82.89%, dev loss: 0.6887, acc: 75.68%.
+--- epoch: 28 ---
+training loss: 0.4510, acc: 84.06%, dev loss: 0.7124, acc: 74.32%.
+--- epoch: 29 ---
+training loss: 0.4810, acc: 81.54%, dev loss: 0.7131, acc: 72.97%.
+--- epoch: 30 ---
+training loss: 0.6027, acc: 77.68%, dev loss: 0.7127, acc: 75.00%.
+--- epoch: 31 ---
+training loss: 0.4864, acc: 82.72%, dev loss: 0.7609, acc: 75.00%.
+--- epoch: 32 ---
+training loss: 0.4488, acc: 83.22%, dev loss: 0.6980, acc: 75.68%.
+--- epoch: 33 ---
+training loss: 0.4028, acc: 85.23%, dev loss: 0.7854, acc: 73.65%.
+--- epoch: 34 ---
+training loss: 0.4119, acc: 84.56%, dev loss: 0.7237, acc: 73.65%.
+--- epoch: 35 ---
+training loss: 0.4198, acc: 85.91%, dev loss: 0.6878, acc: 75.00%.
+--- epoch: 36 ---
+training loss: 0.4009, acc: 85.40%, dev loss: 0.6607, acc: 78.38%.
+--- epoch: 37 ---
+training loss: 0.3262, acc: 87.25%, dev loss: 0.6115, acc: 81.08%.
+--- epoch: 38 ---
+training loss: 0.4392, acc: 84.73%, dev loss: 0.7500, acc: 72.97%.
+--- epoch: 39 ---
+training loss: 0.3731, acc: 87.42%, dev loss: 0.6722, acc: 76.35%.
+--- epoch: 40 ---
+training loss: 0.4310, acc: 86.41%, dev loss: 0.5944, acc: 79.73%.
+--- epoch: 41 ---
+training loss: 0.3236, acc: 88.09%, dev loss: 0.6961, acc: 74.32%.
+--- epoch: 42 ---
+training loss: 0.2836, acc: 89.60%, dev loss: 0.6453, acc: 76.35%.
+--- epoch: 43 ---
+training loss: 0.2852, acc: 90.77%, dev loss: 0.7534, acc: 76.35%.
+--- epoch: 44 ---
+training loss: 0.3621, acc: 86.91%, dev loss: 0.8128, acc: 68.92%.
+--- epoch: 45 ---
+training loss: 0.3229, acc: 88.26%, dev loss: 0.6656, acc: 78.38%.
+--- epoch: 46 ---
+training loss: 0.2672, acc: 90.44%, dev loss: 0.6953, acc: 77.03%.
+--- epoch: 47 ---
+training loss: 0.2823, acc: 90.60%, dev loss: 0.6430, acc: 76.35%.
+--- epoch: 48 ---
+training loss: 0.3255, acc: 88.42%, dev loss: 0.6205, acc: 77.70%.
+--- epoch: 49 ---
+training loss: 0.2666, acc: 92.45%, dev loss: 0.5831, acc: 77.70%.
+--- epoch: 50 ---
+training loss: 0.2848, acc: 89.43%, dev loss: 0.5695, acc: 80.41%.
+--- epoch: 51 ---
+training loss: 0.2471, acc: 92.28%, dev loss: 0.6273, acc: 80.41%.
+--- epoch: 52 ---
+training loss: 0.3045, acc: 90.10%, dev loss: 0.6030, acc: 77.03%.
+--- epoch: 53 ---
+training loss: 0.3060, acc: 90.60%, dev loss: 0.5726, acc: 83.11%.
+--- epoch: 54 ---
+training loss: 0.2669, acc: 90.27%, dev loss: 0.6820, acc: 78.38%.
+--- epoch: 55 ---
+training loss: 0.2592, acc: 90.77%, dev loss: 0.5792, acc: 80.41%.
+--- epoch: 56 ---
+training loss: 0.2227, acc: 92.28%, dev loss: 0.5729, acc: 78.38%.
+--- epoch: 57 ---
+training loss: 0.2373, acc: 92.79%, dev loss: 0.6101, acc: 75.68%.
+--- epoch: 58 ---
+training loss: 0.2324, acc: 90.94%, dev loss: 0.6595, acc: 75.68%.
+--- epoch: 59 ---
+training loss: 0.2151, acc: 93.29%, dev loss: 0.6830, acc: 77.70%.
+--- epoch: 60 ---
+training loss: 0.2504, acc: 91.78%, dev loss: 0.6852, acc: 76.35%.
+--- epoch: 61 ---
+training loss: 0.2723, acc: 92.11%, dev loss: 0.7066, acc: 73.65%.
+--- epoch: 62 ---
+training loss: 0.2365, acc: 91.61%, dev loss: 0.6943, acc: 75.00%.
+--- epoch: 63 ---
+training loss: 0.2025, acc: 93.79%, dev loss: 0.5603, acc: 81.08%.
+--- epoch: 64 ---
+training loss: 0.2081, acc: 92.28%, dev loss: 0.6074, acc: 77.03%.
+--- epoch: 65 ---
+training loss: 0.2195, acc: 91.95%, dev loss: 0.6552, acc: 81.08%.
+--- epoch: 66 ---
+training loss: 0.2571, acc: 92.11%, dev loss: 0.5832, acc: 81.08%.
+--- epoch: 67 ---
+training loss: 0.2129, acc: 91.61%, dev loss: 0.6017, acc: 81.08%.
+--- epoch: 68 ---
+training loss: 0.2144, acc: 92.79%, dev loss: 0.6532, acc: 80.41%.
+--- epoch: 69 ---
+training loss: 0.2849, acc: 89.60%, dev loss: 0.7846, acc: 72.30%.
+--- epoch: 70 ---
+training loss: 0.2974, acc: 89.93%, dev loss: 0.6915, acc: 79.05%.
+--- epoch: 71 ---
+training loss: 0.2359, acc: 92.79%, dev loss: 0.5635, acc: 77.70%.
+--- epoch: 72 ---
+training loss: 0.1894, acc: 93.62%, dev loss: 0.6334, acc: 75.68%.
+--- epoch: 73 ---
+training loss: 0.2002, acc: 93.46%, dev loss: 0.5987, acc: 79.73%.
+--- epoch: 74 ---
+training loss: 0.2259, acc: 91.61%, dev loss: 0.5430, acc: 80.41%.
+--- epoch: 75 ---
+training loss: 0.1828, acc: 94.63%, dev loss: 0.6354, acc: 79.05%.
+--- epoch: 76 ---
+training loss: 0.2037, acc: 93.46%, dev loss: 0.5511, acc: 77.70%.
+--- epoch: 77 ---
+training loss: 0.2295, acc: 92.95%, dev loss: 0.6121, acc: 75.68%.
+--- epoch: 78 ---
+training loss: 0.1874, acc: 94.97%, dev loss: 0.5482, acc: 81.08%.
+--- epoch: 79 ---
+training loss: 0.1578, acc: 95.97%, dev loss: 0.5212, acc: 82.43%.
+--- epoch: 80 ---
+training loss: 0.1792, acc: 94.13%, dev loss: 0.5733, acc: 77.70%.
+--- epoch: 81 ---
+training loss: 0.2098, acc: 93.62%, dev loss: 0.6313, acc: 79.05%.
+--- epoch: 82 ---
+training loss: 0.2058, acc: 93.46%, dev loss: 0.6118, acc: 79.73%.
+--- epoch: 83 ---
+training loss: 0.2470, acc: 92.62%, dev loss: 0.5787, acc: 81.76%.
+--- epoch: 84 ---
+training loss: 0.2226, acc: 92.79%, dev loss: 0.6749, acc: 75.68%.
+--- epoch: 85 ---
+training loss: 0.1467, acc: 95.81%, dev loss: 0.6933, acc: 77.03%.
+--- epoch: 86 ---
+training loss: 0.1748, acc: 93.62%, dev loss: 0.5533, acc: 81.76%.
+--- epoch: 87 ---
+training loss: 0.1453, acc: 95.64%, dev loss: 0.6251, acc: 79.05%.
+--- epoch: 88 ---
+training loss: 0.1848, acc: 93.29%, dev loss: 0.5163, acc: 80.41%.
+--- epoch: 89 ---
+training loss: 0.1711, acc: 94.30%, dev loss: 0.5612, acc: 81.08%.
+--- epoch: 90 ---
+training loss: 0.1561, acc: 94.46%, dev loss: 0.5544, acc: 79.73%.
+--- epoch: 91 ---
+training loss: 0.1383, acc: 95.47%, dev loss: 0.6868, acc: 79.05%.
+--- epoch: 92 ---
+training loss: 0.2162, acc: 92.62%, dev loss: 0.5929, acc: 81.08%.
+--- epoch: 93 ---
+training loss: 0.2370, acc: 92.95%, dev loss: 0.6510, acc: 78.38%.
+--- epoch: 94 ---
+training loss: 0.1583, acc: 95.64%, dev loss: 0.5686, acc: 81.76%.
+--- epoch: 95 ---
+training loss: 0.1797, acc: 93.96%, dev loss: 0.6462, acc: 77.03%.
+--- epoch: 96 ---
+training loss: 0.1621, acc: 94.63%, dev loss: 0.5445, acc: 81.76%.
+--- epoch: 97 ---
+training loss: 0.1466, acc: 95.13%, dev loss: 0.6001, acc: 79.05%.
+--- epoch: 98 ---
+training loss: 0.1235, acc: 96.48%, dev loss: 0.7311, acc: 74.32%.
+--- epoch: 99 ---
+training loss: 0.2028, acc: 92.79%, dev loss: 0.5225, acc: 81.08%.
+--- epoch: 100 ---
+training loss: 0.2031, acc: 94.46%, dev loss: 0.5814, acc: 79.05%.
+best dev acc: 0.8311
