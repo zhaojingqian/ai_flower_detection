@@ -221,6 +221,15 @@ dev_set = FlowerDataset(x_val, y_val)
 train_data_loader = DataLoader(train_set, 32, True)
 dev_data_loader = DataLoader(dev_set, 32, False)
 
+def weights_init(m):
+    classname = m.__class__.__name__
+    if classname.find('Conv2d') != -1:
+        torch.nn.init.xavier_normal_(m.weight.data)
+        torch.nn.init.constant_(m.bias.data, 0.0)
+    elif classname.find('Linear') != -1:
+        torch.nn.init.xavier_normal_(m.weight.data)
+        torch.nn.init.constant_(m.bias.data, 0.0)
+
 from sklearn.model_selection import StratifiedKFold
 
 K = 5
@@ -237,5 +246,6 @@ for fold, (train_idx, val_idx) in enumerate(skf.split(data, label)):
     dev_data_loader = DataLoader(dev_set, 32, False)
 
     net = MyModel().to(device)
+    net.apply(weights_init)
     best_net = train(net, train_data_loader, dev_data_loader)
     torch.save(best_net.state_dict(), model_path + f"/fold{fold}-flower_mlp.pt")
