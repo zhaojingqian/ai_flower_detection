@@ -121,7 +121,7 @@ class MyModel(nn.Module):
         x = self.fc(x)
         return x
     
-num_epochs = 100
+num_epochs = 200
 
 class Stat:
     def __init__(self, training, writer=None):
@@ -161,7 +161,7 @@ def train(model, train_data_loader, dev_data_loader):
     loss_func = CrossEntropyLoss()
     optimizer = Adam(
         model.parameters(),
-        lr=0.001,
+        lr=0.0001,
         weight_decay=0.01,
     )
 
@@ -224,10 +224,10 @@ dev_data_loader = DataLoader(dev_set, 32, False)
 def weights_init(m):
     classname = m.__class__.__name__
     if classname.find('Conv2d') != -1:
-        torch.nn.init.xavier_normal_(m.weight.data)
+        torch.nn.init.kaiming_normal_(m.weight.data)
         torch.nn.init.constant_(m.bias.data, 0.0)
     elif classname.find('Linear') != -1:
-        torch.nn.init.xavier_normal_(m.weight.data)
+        torch.nn.init.kaiming_normal_(m.weight.data)
         torch.nn.init.constant_(m.bias.data, 0.0)
 
 from sklearn.model_selection import StratifiedKFold
